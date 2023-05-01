@@ -1,3 +1,10 @@
 python-multipart
 fastapi
-"uvicorn[standard]"
+uvicorn[standard]
+python-multipart
+fastapi
+uvicorn
+nltk
+num2words
+langdetect
+ scikit-learn
